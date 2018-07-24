@@ -21,7 +21,7 @@ The Student Time-Tracking Project attempts to validate the Program’s estimate 
 Create Group Summary.ipynb (jupyter notebooks version)
 Create Group Summary.py (python version)
 ### Sample Data
-See sample_data directory
+See sample_timesheets directory
 
 ## Process - Evaluating and analyzing data
 Analyze output from step 1, 'timesheet_summary.csv', in any way you see fit. Some examples are provided here.
