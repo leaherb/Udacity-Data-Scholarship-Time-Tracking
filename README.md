@@ -18,9 +18,7 @@ The Student Time-Tracking Project attempts to validate the Program’s estimate 
 
 ## Process - Consolidating and summarizing group data
 ### Code
-Create Group Summary.ipynb (jupyter notebooks version)
-
-Create Group Summary.py (python version)
+Create Group Summary.py 
 
 ### Sample Data
 See sample_timesheets directory
