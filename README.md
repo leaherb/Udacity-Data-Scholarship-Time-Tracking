@@ -17,6 +17,7 @@ The Student Time-Tracking Project attempts to validate the Program’s estimate 
 3. After July 27, 2018, project leader(s) consolidate individual spreadsheets, clean and summarize group data, and make it available for further analysis.
 
 ## Process - Consolidating and summarizing group data
+Create Group Summary.ipynb (or, python version: Create Group Summary.py)
 
 ## Process - Evaluating and analyzing data
 Analyze output from step 1, 'timesheet_summary.csv', in any way you see fit. Some examples are provided here.
