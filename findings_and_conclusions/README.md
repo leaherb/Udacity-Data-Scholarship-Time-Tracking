@@ -1,3 +1,3 @@
 ## The Student Time Tracking Project is a group effort. 
 
-Please download findings and conclusions from your own analysis in this directory.
+Please add your findings and conclusions of your own data analysis.
