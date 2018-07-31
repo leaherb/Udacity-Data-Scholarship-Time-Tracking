@@ -19,6 +19,7 @@ The Student Time-Tracking Project attempts to validate the Program’s estimate 
 ## Process - Consolidating and summarizing group data
 ### Code
 Create Group Summary.py 
+concatenate_standardized_timesheets.py (after timesheets are cleaned and standardized, write them all in one CSV file)
 
 ### Sample Data
 See sample_timesheets directory
