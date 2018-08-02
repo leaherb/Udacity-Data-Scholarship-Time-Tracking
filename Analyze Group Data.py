@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[6]:
-
-
 from datetime import datetime
 import pandas as pd
 import matplotlib.pyplot as plt
