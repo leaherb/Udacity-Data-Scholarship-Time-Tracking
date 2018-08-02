@@ -23,7 +23,7 @@ parti_summary_df = pd.DataFrame(parti_df['Hours'].resample('W-MON').sum()).renam
 count_df = df[['Timesheet ID' ]].resample('W-MON').nunique().rename(columns={'Timesheet ID':'Sheet Count'})
 
 # Merge the three subset dataframes: class, non-class and timesheet count 
-summary_df = class_summary_df.merge(                                    parti_summary_df, left_index=True, right_index=True, how='outer').merge(                                    count_df, left_index=True, right_index=True, how='outer')
+summary_df = class_summary_df.merge(parti_summary_df, left_index=True, right_index=True, how='outer').merge(count_df, left_index=True, right_index=True, how='outer')
 
 # Calculate the mean for Class and Non-Class hours each week
 summary_df['Avg Class Hours'] = summary_df['C Hours'] / summary_df['Sheet Count']
